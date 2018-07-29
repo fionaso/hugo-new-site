@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on wecodeast</title>
+    <link>your_site_url_address/post/</link>
+    <description>Recent content in Posts on wecodeast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 29 Jul 2018 17:13:27 +0100</lastBuildDate>
+    
+	<atom:link href="your_site_url_address/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>your_site_url_address/post/first-post/</link>
+      <pubDate>Sun, 29 Jul 2018 17:13:27 +0100</pubDate>
+      
+      <guid>your_site_url_address/post/first-post/</guid>
+      <description>Victory!</description>
+    </item>
+    
+  </channel>
+</rss>
