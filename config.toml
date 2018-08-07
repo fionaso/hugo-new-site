@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://xenodochial-goldstine-9ca3cb.netlify.com/"
+baseurl = "https://wecodeast.netlify.com/"
 languageCode = "en"
 title = "wecodeast"
 theme = "hugo-theme-cactus-plus"
