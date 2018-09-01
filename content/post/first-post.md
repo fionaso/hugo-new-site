@@ -17,6 +17,7 @@ Great start. Moving on.
 + Yes, there are tons of job opportunities for all levels.
 
 Whether it is related or not to your current job, knowing how to program can only benefit you. 
+
 + It might be that you have a blog and would like to make it pretty without pay astronomical $$.  
 + It might be that you want to change career and in that case, Welcome to the world of opportunities. 
 + It might be that you need it for work. 
