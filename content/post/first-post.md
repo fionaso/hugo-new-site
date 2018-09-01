@@ -4,12 +4,12 @@ date: 2018-07-29T17:13:27+01:00
 draft: false
 ---
 
-First and foremost, I declare the struggle of writing the introduction sentence for your very first post real. I am now left wondering: what will be easier? Learning JavaScript, writing blog posts on a regular basis or even bolder, keeping this blog alive?
+First and foremost, I declare the struggle of writing the introduction sentence for your very first post real and I am left wondering: what will be easier? Learning JavaScript, writing blog posts on a regular basis or even bolder, keeping this blog alive?
 
-Moving on.
+Great start. Moving on.
 
-Why learning JavaScript?
-There are millions of reasons to this. 
+Why learning JavaScript? There are millions of reasons. 
+
 Yes, programming languages are officially perceived as « dope ». 
 Yes, there’s lots of money to make.
 Yes, you could potentially work from home, everyday.
