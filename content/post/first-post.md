@@ -8,7 +8,7 @@ First and foremost, I declare the struggle of writing the introduction sentence 
 
 Great start. Moving on.
 
-Why learning JavaScript? There are millions of reasons. 
+#**Why learning JavaScript? There are millions of reasons.**
 
 Yes, programming languages are officially perceived as « dope ». 
 Yes, there’s lots of money to make.
@@ -21,8 +21,12 @@ It might be that you want to change career and in that case, Welcome to the worl
 It might be that you need it for work. 
 It might also be that you have your own business and would like to be hands-on, understand what everything does and fix whatever is broken.
 
-Is it difficult? Well, as long as you have the will, I believe everything is easier. As with everything, the key is to practice, practice and practice. The first approach is to think of something that would be cool to build, have a goal. It doesn’t have to be ambitious. Motto: starting small to evolve big. 
+#**Is it difficult?**
 
-I will post all the learning from my course on this blog. From the basics to hopefully some very cool experiments with the full code available. I might will break the experiment or in fact the whole blog so apologies in advance. I’ve heard that was the destiny of every developer.
+Well, as long as you have the will, I believe everything is easier. As with everything, the key is to practice, practice and practice. The first approach is to think of something that would be cool to build, have a goal. It doesn’t have to be ambitious. Motto: starting small to evolve big. 
+
+#**Keeping up with JavaScript: my plan**
+
+I will post all the learning from my course on this blog. From the basics to hopefully some very cool experiments with the full code available. I ~~might~~ **will** break the experiment or in fact the whole blog so apologies in advance. I’ve heard that was the destiny of every developer.
 
 So without further ado, let’s break things!
