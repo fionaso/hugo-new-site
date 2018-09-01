@@ -10,11 +10,10 @@ Great start. Moving on.
 
 **#Why learning JavaScript? There are millions of reasons.**
 
-*
-Yes, programming languages are officially perceived as « dope ». 
-Yes, there’s lots of money to make.
-Yes, you could potentially work from home, everyday.
-Yes, it is the most popular programming language, which comes with lots of job opportunities.
++Yes, programming languages are officially perceived as « dope ». 
++Yes, there’s lots of money to make.
++Yes, you could potentially work from home, everyday.
++Yes, it is the most popular programming language, which comes with lots of job opportunities.
 
 Whether it is related or not to your current job, knowing how to program can only benefit you. 
 It might be that you have a blog and would like to make it pretty without pay astronomical $$.  
