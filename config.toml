@@ -10,7 +10,7 @@ hasCJKLanguage = false
 [params]
 	author = "Fiona"
 	description = "Testing. Breaking. Testing"
-	bio = "Beginner JavaScript Codes"
+	bio = "Beginner JavaScript Projects"
 
 	twitter = "your_twitter_id"
 	facebook = "your_facebook_id"
