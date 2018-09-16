@@ -4,7 +4,7 @@ date: 2018-07-29T17:13:27+01:00
 draft: false
 ---
 
-First and foremost, I declare the struggle of writing the introduction sentence for your very first post real and I am left wondering: what will be easier? Learning JavaScript, writing blog posts on a regular basis or even bolder, keeping this blog alive?
+First and foremost, I declare the struggle of writing the introduction sentence for your very first post real and I am left wondering: what will be easier? <!--more-->Learning JavaScript, writing blog posts on a regular basis or even bolder, keeping this blog alive?
 
 Great start. Moving on.
 
