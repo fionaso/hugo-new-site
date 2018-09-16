@@ -5,7 +5,7 @@ draft: false
 ---
 
 Writing your first JavaScript code starts with a little refresh. 
-Once you’re decided on a code editor – for me, it is Brackets – it’s time to start writing your first piece of JavaScript code.
+Once you’re decided on a code editor – for me, it is Brackets – it’s time to start writing your first piece of JavaScript code.<!--more-->
 But first, some reminders to make sure we get the very basic stuff.
 
 **#HTML / CSS / JAVASCRIPT***
