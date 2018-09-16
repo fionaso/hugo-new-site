@@ -5,9 +5,8 @@ draft: false
 ---
 
 Although JavaScript has a different syntax compared with HTML & CSS, the language is still easy to learn as it's written in plain english. That means, no crazy Matrix-like codes that only you and you peers can understand. <!--more-->
-But more importantly (and that's only an assumption at this point), it will make it much easier to debug and for others (you, the reader) to understand.
 
-Let's have a look at JavaScript basics.
+But more importantly (and that's only an assumption at this point), it will make it much easier to debug and for others (you, the reader) to understand. As a starting point, let's have a look at JavaScript basics .
 
 **#JavaScript is case sensitive.**
 
