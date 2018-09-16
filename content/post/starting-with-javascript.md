@@ -1,3 +1,9 @@
+---
+title: "Starting with JavaScript"
+date: 2018-09-15T17:13:27+01:00
+draft: false
+---
+
 Writing your first JavaScript code starts with a little refresh. 
 Once you’re decided on a code editor – for me, it is Brackets – it’s time to start writing your first piece of JavaScript code.
 But first, some reminders to make sure we get the very basic stuff.
